@@ -168,6 +168,24 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.home {
+  color: #212529;
+}
+.home header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px dashed #C0C0C0;
+  padding-bottom: 20px;
+}
+.home header nav {
+  font-size: 15px;
+  margin-top: 10px;
+}
+.home header nav a {
+  padding: 20px;
+  text-decoration: none;
+  color: #212529;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
